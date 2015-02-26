@@ -10,6 +10,10 @@ They work via a bluetooth connection and a set of apps (Android, iOS, hopefully 
 
 ##What the SDK contains
 
-*SDK
-  *Docs: this folder contains the official pdf that explains how to create and integrate the GlassUp environment into own application.
-  *Emulators: 
+* **SDK**
+  * **Docs**: this folder contains the official pdf that explains how to create and integrate the GlassUp environment into own application.
+  * **Emulators**: this folder contains the official emulators available for Windows and Mac OSX(Intel based). Do you haven't a phisical GlassUp device... No problem use this fantastic instrument to test your application.
+  *  **Examples**: the best method to learn is see the example. This folder contains all features of GlassUp explained step by step.
+  *  **Test App**: This folder contains a compiled application that shows you the layouts that GlassUp can rappresents your custom information.
+  *  **libs**: This folder contains a library (jar) that you can include into your project to interface your app with GlassUp. All interfaces are included into this library. 
+
