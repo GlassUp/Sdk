@@ -10,6 +10,6 @@ They work via a bluetooth connection and a set of apps (Android, iOS, hopefully 
 
 ##What the SDK contains
 
--SDK
-  -Docs: this folder contains the official pdf that explains how to create and integrate the GlassUp environment into own application.
-  -Emulators: 
+*SDK
+  *Docs: this folder contains the official pdf that explains how to create and integrate the GlassUp environment into own application.
+  *Emulators: 
